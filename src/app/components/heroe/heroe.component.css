@@ -1,0 +1,35 @@
+.imgDc {
+    position: relative;
+    top: -30px;
+    left: 550px;
+    height: 100px;
+    border-radius: 15px;
+}
+
+.hr {
+    width: 100%;
+}
+
+.imgMarvel {
+    position: relative;
+    top: -35px;
+    left: 550px;
+    height: 100px;
+    border-radius: 15px;
+}
+
+.contenedor {
+    position: relative;
+    top: 35px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 0;
+}
+
+.encabezado {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 0;
+}

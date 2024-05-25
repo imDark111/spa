@@ -1,0 +1,23 @@
+.container {
+    margin-top: 20px;
+    margin: 0;
+}
+
+.logoUtmach {
+    width: 50 px;
+    height: 50 px;
+}
+
+.body {
+    font-family: arial, sans-serif;
+    margin: 0px;
+    padding: 0;
+    background-image: url('https://tasbihdigital.com/wp-content/uploads/2022/06/HD-Cool-Blue-Wallpaper.jpg');
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+
+.justificado {
+    text-align: justify;
+}
